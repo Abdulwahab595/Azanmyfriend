@@ -1,2 +1,4 @@
 ﻿Hi this is Lab 13
-Change from repo-B
+Resolved conflict  kept both changes:
+- Change from repo-A
+- Change from repo-B
